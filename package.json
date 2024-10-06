@@ -1,0 +1,30 @@
+{
+  "name": "appsterids",
+  "version": "1.0",
+  "description": "Web based Orrery",
+  "main": "js/orrery/launch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acentauripy/Appsteroids"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GNU-3.0",
+  "bugs": {
+    "url": "https://github.com/acentauripy/Appsteroids/issues"
+  },
+  "homepage": "https://github.com/acentauripy/Appsteroids#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.10",
+    "three": "^0.156",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "jquery-ui": "^1.13.2",
+    "@tweenjs/tween.js": "^16.6.0"
+  }
+}
