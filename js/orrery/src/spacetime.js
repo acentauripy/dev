@@ -1,5 +1,5 @@
 import * as ORR from "./init.js";
-import * as THREE from "../../../node_modules/three/build/three.module.js";
+import * as THREE from "../../../nodes_modules/three/build/three.module.js";
 
 const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 const UnixTimeZeroInMJD = 40587; // UNIX time zero as Modified Julian Date
