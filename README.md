@@ -48,18 +48,5 @@ Appsteroids serves as a great example of how modern web technologies like WebGL,
 
 ---
 
-## How to Run
-
-To run the project locally, follow these steps:
-
-1. **Clone the Repository**:
-   ```git clone https://github.com/your-repository-link```
-2. **Install Dependencies: Make sure to have node.js installed. Then, run**:
-  ```npm install```
-3. **Start the Development Server**:
-```npm run dev```
-4. **Open the Browser**:
-```Navigate to http://localhost:3000 to see the interactive solar system in action.```
-
 ## Contributing
 We welcome contributions from the community! If you want to improve the simulation or add more features (e.g., moons, asteroid belts, or comets), feel free to fork the repository and submit a pull request.
